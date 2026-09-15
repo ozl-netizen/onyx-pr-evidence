@@ -1,0 +1,1 @@
+Public host for PR review screenshots (camo-renderable).
